@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Vyva's GitHub stats](https://github-readme-stats.vercel.app/api?username=VyvaHart)](https://github.com/VyvaHart/github-readme-stats)
+
 <!--
 **VyvaHart/VyvaHart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
