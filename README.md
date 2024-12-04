@@ -1,4 +1,5 @@
 ## Hi there 👋
+<a href="https://app.daily.dev/vladimirhartoniuk"><img src="https://api.daily.dev/devcards/v2/xxfY4pxH4qfiPTp7EdPpA.png?type=default&r=wzi" width="356" alt="Vladimir Hartoniuk's Dev Card"/></a>
 <!--
 **VyvaHart/VyvaHart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
